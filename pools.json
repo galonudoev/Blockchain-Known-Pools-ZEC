@@ -20,7 +20,10 @@
             "name" : "Digipools",
             "link" : "https://www.digipools.org/"
         },
-
+        "solopool.org": {
+            "name" : "SoloPool",
+            "link" : "https://solopool.org/"
+        },
 
 
         
