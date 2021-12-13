@@ -8,7 +8,10 @@
             "name": "2Miners",
             "link": "https://2miners.com/"
         },
-
+        "Mining-Dutch": {
+            "name" : "Mining-Dutch",
+            "link" : "https://www.mining-dutch.nl/"
+        },
         
         
         "/1THash&58COIN/": {
@@ -561,6 +564,14 @@
            "name" : "SlushPool",
            "link" : "https://slushpool.com/"
         },        
+        "t1fP3CiU9uKth852YAs85RTjzTv6qxC1c9R": {
+           "name" : "???",
+           "link" : ""
+        },
+        "t1W6x554SHTEQEkUUUunKgi7JgmCHPgX9P3": {
+            "name" : "Mining-Dutch",
+            "link" : "https://www.mining-dutch.nl/"
+        },
         "t3bgkjiUeatWNkhxY3cWyLbTxKksAfk561R": {
            "name" : "Private",
            "link" : ""
