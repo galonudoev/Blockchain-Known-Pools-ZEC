@@ -1,6 +1,6 @@
 {
     "coinbase_tags" : {
-        "/LUXOR/": {
+        "LUXOR": {
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
         },
