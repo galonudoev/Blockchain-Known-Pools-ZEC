@@ -12,7 +12,17 @@
             "name" : "Mining-Dutch",
             "link" : "https://www.mining-dutch.nl/"
         },
-        
+        "zpool.ca": {
+            "name" : "zpool.ca",
+            "link" : "https://zpool.ca/"
+        },
+        "digipools.org": {
+            "name" : "Digipools",
+            "link" : "https://www.digipools.org/"
+        },
+
+
+
         
         "/1THash&58COIN/": {
             "name": "1THash",
@@ -564,10 +574,6 @@
            "name" : "SlushPool",
            "link" : "https://slushpool.com/"
         },        
-        "t1fP3CiU9uKth852YAs85RTjzTv6qxC1c9R": {
-           "name" : "???",
-           "link" : ""
-        },
         "t1W6x554SHTEQEkUUUunKgi7JgmCHPgX9P3": {
             "name" : "Mining-Dutch",
             "link" : "https://www.mining-dutch.nl/"
@@ -577,7 +583,42 @@
             "link" : "https://nanopool.org/"
         },
 
-        
+        "t1TCRUzemZSmw5Evae8Bj3vjR9VdUEc9bvh": {
+            "name" : "SoloPool",
+            "link" : "https://solopool.org/"
+        },
+
+
+
+        "t1fP3CiU9uKth852YAs85RTjzTv6qxC1c9R": {
+            "name" : "No_1c9R",
+            "link" : ""
+        },
+        "t1YN48pMwyG4aszU411jKdY7MHyPpJB8jPq": {
+            "name" : "No_8jPq",
+            "link" : ""
+        },
+        "t1ae7GeH6i9jGFFLwhox9oK86Go3atVKKXN": {
+            "name" : "No_KKXN",
+            "link" : ""
+        },
+        "t1apurV1oi7GssE5HnrHqHadCJ34caCWU6s": {
+            "name" : "No_WU6s",
+            "link" : ""
+        },
+        "t1bw7G3eBs6MsixmffB2dzfY8yf3bYBzbSk": {
+            "name" : "No_nomp-Sk",
+            "link" : ""
+        },
+        "t1ed8b8dkvuPrqHxkVNUmKdXgRkJVxpb7Md": {
+            "name" : "No_nomp-Md",
+            "link" : ""
+        },
+
+
+
+
+
         "t3bgkjiUeatWNkhxY3cWyLbTxKksAfk561R": {
            "name" : "Private",
            "link" : ""
